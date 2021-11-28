@@ -5,7 +5,7 @@
 - 🔭 Familiarizando com Back-End
 - 🌱 Estudando.Net C#
 - 👯 Contate-me no email: thiagofelixnp@gmail.com
-- 🤔 Intern at Avanade Brasil
+- ✍ Intern at Avanade Brasil 
 
 <div align="center">
   <a href="https://github.com/thiagonp13">
