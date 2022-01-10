@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Familiarizando com Back-End
-- 🌱 Estudando.Net C#
+- 🔭 Familiarizando com Cloud Computing
+- 🌱 Estudando Azure
 - 👯 Contate-me no email: thiagofelixnp@gmail.com
 - ✍ Intern at Avanade Brasil 
 
